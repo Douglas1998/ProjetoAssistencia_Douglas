@@ -1,0 +1,15 @@
+SMAP
+indexpre_jsp.java
+JSP
+*S JSP
+*F
++ 0 indexpre.jsp
+admin/indexpre.jsp
++ 1 rodape-index.jsp
+admin/rodape-index.jsp
+*L
+52:100,2
+53,109:102
+1#1,27:211
+161#0,5:237
+*E
